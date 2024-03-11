@@ -1,0 +1,59 @@
+Tulipanes Patron
+
+Abreviaturas:
+
+    PA = Punto Alto
+    PM = Punto Medio
+    PB = Punto Bajo
+    PD = Punto Deslizado
+    Cad = Cadeneta
+    Mark = Marcador "Separador" en el punto
+
+
+Hojas de tulipan grandes (3 por flor)
+
+Primera vuelta:	
+    13 Cad
+    Saltamos 1 Cad y 1 PB
+    1 PM
+    8 PA
+    1 PM
+    3 PB y Mark en 2do PB
+    1 PM en el sig. punto
+    8 PA
+    1 PM
+    2 PB sobre el mismo ultimo punto
+    Sobre el PB del inicio de la vuelta se hace PD
+
+Segunda vuelta:
+    Se sube 1 Cad y PB sobre el mismo punto
+    Hacer PB hasta llegar a Mark
+    Sobre Mark hacer 3 PB
+    Continuar PB hasta llegar al final de los PB
+    Hacer 2 PB mas y hacer PD sobre el primer PB de la vuelta
+
+
+Hojas de tulipan chicas (3 por flor)
+
+Primer vuelta:
+    10 Cad
+    Saltamos 1 Cad y 1 PB
+    1 PM
+    5 PA
+    1 PM
+    3 PB y Mark en 2do PB
+    1PM en el sig. PB
+    5 PA
+    1 PM
+    2 PB sobre el mismo ultimo punto
+    Sobre el PB del inicio de la vuelta se hace PD
+
+Segunda vuelta:
+    Se sube 1 Cad y PB sobre el mismo punto
+    Hacer PB hasta llegar a Mark
+    Sobre Mark hacer 3 PB
+    Continuar PB hasta llegar al final de los PB
+    Hacer 2 PB mas y hacer PD sobre el primer PB de la vuelta
+
+
+
